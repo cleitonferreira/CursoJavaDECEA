@@ -1,0 +1,8 @@
+	git config -- global http.proxy XXX.XXX.XXX.XXX:zz
+
+	XXX.XXX.XXX.XXX é o proxy
+	zz é a porta
+
+	Exemplo proxy
+
+	git config --global http.proxy proxy.decea.intraer:8080

@@ -1,7 +1,7 @@
 package aula52;
 
 /*
- * Polimorfismo, instanciof e casting de objetos
+ * Polimorfismo, instanceof e casting de objetos
  * */
 
 public class TestePolimorfismo {
